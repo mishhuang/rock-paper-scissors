@@ -1,2 +1,2 @@
 # rock-paper-scissors
-A simple Rock Paper Scissors game
+A simple implementation of Rock Paper Scissors game from The Odin Project curriculum.
