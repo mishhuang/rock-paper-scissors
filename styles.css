@@ -110,6 +110,11 @@ body {
     border: 3px solid black;
 }
 
+#rock:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 25px #D15A54;
+}
+
 #paper {
     background-image: url(images/Paper.png);
     background-color: #ad909b;
@@ -122,6 +127,11 @@ body {
     border: 3px solid black;
 }
 
+#paper:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 25px #D15A54;
+}
+
 #scissors {
     background-image: url(images/Scissors.png);
     background-color: #ad909b;
@@ -132,6 +142,11 @@ body {
     background-position: center;
     border-radius: 12px;
     border: 3px solid black;
+}
+
+#scissors:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 25px #D15A54;
 }
 
 #footer {
