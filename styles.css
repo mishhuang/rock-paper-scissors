@@ -112,7 +112,7 @@ body {
 
 #rock:hover {
     transform: scale(1.1);
-    box-shadow: 0 0 25px #D15A54;
+    box-shadow: 0 0 25px #d15480;
 }
 
 #paper {
@@ -129,7 +129,7 @@ body {
 
 #paper:hover {
     transform: scale(1.1);
-    box-shadow: 0 0 25px #D15A54;
+    box-shadow: 0 0 25px #d15480;
 }
 
 #scissors {
@@ -146,7 +146,7 @@ body {
 
 #scissors:hover {
     transform: scale(1.1);
-    box-shadow: 0 0 25px #D15A54;
+    box-shadow: 0 0 25px #d15480;
 }
 
 #footer {
