@@ -59,7 +59,7 @@ body {
     width: 100px;
     background-image: url(images/sitting-cat.png);
     background-color: #ad909b;
-    background-size: 110px 110px;
+    background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 12px;
